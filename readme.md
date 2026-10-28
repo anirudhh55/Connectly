@@ -68,9 +68,7 @@ react-native run-android
 
 If you discover any security related issues, please email author email instead of using the issue tracker.
 
-## Credits
 
-- [Bhavik Charola](https://github.com/bhavik66)
 
 ## License
 
