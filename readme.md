@@ -70,10 +70,6 @@ If you discover any security related issues, please email author email instead o
 
 
 
-## License
-
-MIT License. Please see the [license file](LICENSE.md) for more information.
-
 
 [react_native-badge]: https://img.shields.io/badge/React%20Native-0.57.7-blue.svg?style=flat
 [react_native-url]: https://facebook.github.io/react-native/
